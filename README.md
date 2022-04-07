@@ -5,8 +5,9 @@ This is a home work done by a student of Coding Boot Camp - University of Texas 
 Distributed under the MIT License. See LICENSE.txt for more information.
 ## Project Links
 Code Repo: https://github.com/pmayur0680/05-HW-Work-Day-Scheduler<br>
-Live Site: 
+Live Site: https://pmayur0680.github.io/05-HW-Work-Day-Scheduler/
 ## Screenshots
+![Alt text](https://user-images.githubusercontent.com/101486770/162094921-d82f4576-59eb-4ff4-8025-3fbe3fef8b0f.png?raw=true "Third-Party APIs: Work Day Scheduler")
 ## Acknowledgments
  I've included a few of my favorites to lean Third-Party APIs. 
  - https://getbootstrap.com/docs/4.6/getting-started/introduction/
